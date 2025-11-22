@@ -34,7 +34,7 @@ class AIEngineer:
         self.name = "Ronny Camacho"
         self.role = "AI Systems Architect"
         self.location = "Earth 🌍"
-        self.languages = ["Python", "TypeScript", "C++"]
+        self.languages = ["Python", "TypeScript"]
         
     def current_focus(self):
         return {
